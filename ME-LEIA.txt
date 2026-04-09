@@ -1,0 +1,38 @@
+versão: alpha 1
+
+Mods incluidos:
+AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar
+appleskin-fabric-mc1.20.1-2.5.2.jar
+Clumps-fabric-1.20.1-12.0.0.4.jar
+continuity-3.0.0+1.20.1.jar
+CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar
+entityculling-fabric-1.10.1-mc1.20.1.jar
+fabric-api-0.92.7+1.20.1.jar
+ferritecore-6.0.1-fabric.jar
+ImmediatelyFast-Fabric-1.5.4+1.20.4.jar
+indium-1.0.36+mc1.20.1.jar
+iris-1.7.6+mc1.20.1.jar
+Jade-1.20-Fabric-11.13.1.jar
+jei-1.20.1-fabric-15.20.0.129.jar
+krypton-0.2.3.jar
+language-reload-1.7.5+1.20.1.jar
+lithium-fabric-mc1.20.1-0.11.4.jar
+memoryleakfix-fabric-1.17+-1.1.5.jar
+modelfix-1.15-fabric.jar
+modernfix-fabric-5.25.2+mc1.20.1.jar
+modmenu-7.2.2.jar
+Mouse Tweaks-fabric-mc1.20-2.26.jar
+reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar
+sodium-fabric-0.5.13+mc1.20.1.jar
+xaerominimap-fabric-1.20.1-25.3.10.jar
+xaeroworldmap-fabric-1.20.1-1.40.11.jar
+
+Java recomendado:
+https://adoptium.net/pt-BR/temurin/releases?version=17
+
+Argumentos JVM Recomendados:
+-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
+
+Memoria recomendada:
+6144 de miníma e de maxima
+ou se prefirir Xmx6G Xms6G, e se o seu computador tiver 16GB de RAM você pode colocar 8192 de miníma e de maxima ou Xmx8G Xms8G
