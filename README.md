@@ -1,3 +1,5 @@
+*Descontinuado, por causa que tenho que fazer outras coisas da vida, pode não ter certeza que voltarei com isso, então não vou arquivar.*
+
 # TentandoDecidirONomeAinda
 
 Nome atual: *Tentando decidir o nome ainda*
